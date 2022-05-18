@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Spinner</string>
+    <string-array name="departmentArray">
+        <item>CSE</item>
+        <item>BBA</item>
+        <item>EEE</item>
+        <item>ETE</item>
+    </string-array>
+</resources>
